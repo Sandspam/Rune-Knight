@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{7413f4b1-5c9e-4296-b07a-11c718f471b7}">
+        <property name="assetPath">
+            <value>Heeled_Boots_On_Wood (2).wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.072675736961451243</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{fe14d2f1-3b65-4589-b939-e6a9bbcf771a}</destination>
+        </relationship>
+    </object>
+</objects>
